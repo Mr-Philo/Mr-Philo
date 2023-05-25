@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mr-Philo&count_private=true%theme=vue&show_icons=true&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Philo&layout=compact&hide_border=true" />
+    </td>
+  </tr>
+</table>
+  
+
 <!--
 **Mr-Philo/Mr-Philo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +26,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on MSRA as a research intern
+- 🌱 I’m currently learning Computer Vision
+- 👯 I’m looking to collaborate on inspirable companions
+
+
+<!-- thanks to https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
