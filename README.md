@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mr-Philo&count_private=true%theme=vue&show_icons=true&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Mr-Philo%theme=vue&show_icons=true&hide_border=true&count_private=true" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Philo&layout=compact&hide_border=true" />
