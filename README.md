@@ -6,7 +6,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Mr-Philo&show_icons=true&hide_border=true&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Philo&layout=compact&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Philo&layout=compact&hide_border=true&hide=html,jupyter%20notebook" />
     </td>
   </tr>
 </table>
