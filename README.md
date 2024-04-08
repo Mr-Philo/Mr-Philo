@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on MSRA as a research intern
-- 🌱 I’m currently learning Computer Vision
+- 🔭 I’m a phD student in USTC, while working on MSRA as a research intern
+- 🌱 I’m currently learning Computer Vision and Large Model Compression / Low-bit Precision Models
 - 👯 I’m looking to collaborate on inspirable companions
 
 
