@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a phD student in USTC, while working on MSRA as a research intern
-- 🌱 I’m currently learning Computer Vision and Large Model Compression / Low-bit Precision Models
+- 🌱 My research interests are AI Infrastructure and Efficient LLM Computation, including Low-bit Precision Models
 - 👯 I’m looking to collaborate on inspirable companions
 
 
